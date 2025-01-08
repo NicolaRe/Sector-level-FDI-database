@@ -9,7 +9,8 @@ DATA SOURCES
 1. Multinational Revenue, Employment, and Investment Database (MREID) by Ahmad et al. (2023): https://www.usitc.gov/data/gravity/mreid.htm
 2. Penn World Table 10.0 Feenstra et al. (2015): https://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt100
 3. CEPII gravity database (Conte et al., 2022):  https://www.cepii.fr/cepii/en/bdd_modele/bdd_modele.asp
-4. World Development Indicators  (The World Bank): https://databank.worldbank.org/source/world-development-indicators
+As this datafile is too large to be uploaded here, download it yourself as a Stata .dta-file from CEPII, save it in your working directory, and name it "Gravity_V202211_original.dta", to make it compatible with the naming in the Do-File.
+5. World Development Indicators  (The World Bank): https://databank.worldbank.org/source/world-development-indicators
 4. Financial Development Index by IMF: https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Introducing-a-New-Broad-based-Index-of-Financial-Development-43621
 5. Economic Freedom Index by Fraser Institute: https://www.fraserinstitute.org/economic-freedom/dataset?geozone=world&page=dataset&min-year=2&max-year=0&filter=0&year=2010
 6. Bilateral exchange rate regime by Harms and Knaze (2021): https://www.international.economics.uni-mainz.de/data-on-bilateral-exchange-rate-regimes/ 
